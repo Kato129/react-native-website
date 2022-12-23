@@ -1,0 +1,20 @@
+{
+   "editor.renderLineHighlight": "none",
+   "editor.scrollbar.horizontal": "visible",
+   "editor.smoothScrolling": true,
+   "editor.snippets.codeActions.enabled": false,
+   "editor.stickyScroll.enabled": true,
+   "editor.tabCompletion": "on",
+   "editor.unicodeHighlight.allowedLocales": {
+      "_os": false
+   },
+   "diffEditor.wordWrap": "off",
+   "editor.quickSuggestions": {
+      "comments": "on"
+   },
+   "editor.suggest.localityBonus": true,
+   "editor.suggest.preview": true,
+   "editor.suggest.showStatusBar": true,
+   "editor.wordBasedSuggestionsMode": "allDocuments",
+   "files.enableTrash": false
+}
